@@ -17,8 +17,8 @@ tag:
   "name": "能量扩散器",
   "quality": "神器",
   "img": [
-    "/danke/assets/img/bg_color_2.png",
-    "/danke/assets/img/ATK1_16-CTqAPsQS.png"
+    "/assets/img/bg_color_2.png",
+    "/assets/img/ATK1_16-CTqAPsQS.png"
   ],
   "attr": [
     "攻击+30",
@@ -36,8 +36,8 @@ tag:
   "name": "湮灭装置",
   "quality": "神器",
   "img": [
-    "/danke/assets/img/bg_color_2.png",
-    "/danke/assets/img/ATK2_16-DkwpyNAq.png"
+    "/assets/img/bg_color_2.png",
+    "/assets/img/ATK2_16-DkwpyNAq.png"
   ],
   "attr": [
     "攻击+30",
@@ -55,8 +55,8 @@ tag:
   "name": "精确制导系统",
   "quality": "神器",
   "img": [
-    "/danke/assets/img/bg_color_2.png",
-    "/danke/assets/img/ATK3_16-iGrRn6d2.png"
+    "/assets/img/bg_color_2.png",
+    "/assets/img/ATK3_16-iGrRn6d2.png"
   ],
   "attr": [
     "攻击+30",
@@ -117,8 +117,8 @@ tag:
   "name": "量子偏振器",
   "quality": "神器",
   "img": [
-    "/danke/assets/img/bg_color_2.png",
-    "/danke/assets/img/ATK4_16-CRznjPmz.png"
+    "/assets/img/bg_color_2.png",
+    "/assets/img/ATK4_16-CRznjPmz.png"
   ],
   "attr": [
     "攻击+30",
@@ -136,8 +136,8 @@ tag:
   "name": "相位转换器",
   "quality": "神器",
   "img": [
-    "/danke/assets/img/bg_color_2.png",
-    "/danke/assets/img/ATK5_16-c2M-OKGj.png"
+    "/assets/img/bg_color_2.png",
+    "/assets/img/ATK5_16-c2M-OKGj.png"
   ],
   "attr": [
     "攻击+30",
@@ -155,8 +155,8 @@ tag:
   "name": "反物质生成器",
   "quality": "神器",
   "img": [
-    "/danke/assets/img/bg_color_2.png",
-    "/danke/assets/img/ATK6_16-B6XNT5kY.png"
+    "/assets/img/bg_color_2.png",
+    "/assets/img/ATK6_16-B6XNT5kY.png"
   ],
   "attr": [
     "攻击+30",
@@ -181,8 +181,8 @@ tag:
   "name": "纳米机器人",
   "quality": "神器",
   "img": [
-    "/danke/assets/img/bg_color_2.png",
-    "/danke/assets/img/AccessoryHP1_16-Don3B1r3.png"
+    "/assets/img/bg_color_2.png",
+    "/assets/img/AccessoryHP1_16-Don3B1r3.png"
   ],
   "attr": [
     "生命+120",
@@ -200,8 +200,8 @@ tag:
   "name": "传导辅助器",
   "quality": "神器",
   "img": [
-    "/danke/assets/img/bg_color_2.png",
-    "/danke/assets/img/AccessoryHP2_16-BOEizGxv.png"
+    "/assets/img/bg_color_2.png",
+    "/assets/img/AccessoryHP2_16-BOEizGxv.png"
   ],
   "attr": [
     "生命+120",
@@ -219,8 +219,8 @@ tag:
   "name": "重力控制器",
   "quality": "神器",
   "img": [
-    "/danke/assets/img/bg_color_2.png",
-    "/danke/assets/img/AccessoryHP3_16-DP2-kLRN.png"
+    "/assets/img/bg_color_2.png",
+    "/assets/img/AccessoryHP3_16-DP2-kLRN.png"
   ],
   "attr": [
     "生命+120",
@@ -238,8 +238,8 @@ tag:
   "name": "机械骨骼系统",
   "quality": "神器",
   "img": [
-    "/danke/assets/img/bg_color_2.png",
-    "/danke/assets/img/AccessoryHP4_16-D-Tr9iAA.png"
+    "/assets/img/bg_color_2.png",
+    "/assets/img/AccessoryHP4_16-D-Tr9iAA.png"
   ],
   "attr": [
     "生命+120",
@@ -257,8 +257,8 @@ tag:
   "name": "能量收集器",
   "quality": "神器",
   "img": [
-    "/danke/assets/img/bg_color_2.png",
-    "/danke/assets/img/AccessoryHP5_16-4NvKyCI0.png"
+    "/assets/img/bg_color_2.png",
+    "/assets/img/AccessoryHP5_16-4NvKyCI0.png"
   ],
   "attr": [
     "生命+120",
@@ -276,8 +276,8 @@ tag:
   "name": "高效维持装置",
   "quality": "神器",
   "img": [
-    "/danke/assets/img/bg_color_2.png",
-    "/danke/assets/img/skill_huoJian-B6P-pAn3.png"
+    "/assets/img/bg_color_2.png",
+    "/assets/img/skill_huoJian-B6P-pAn3.png"
   ],
   "attr": [
     "生命+120",

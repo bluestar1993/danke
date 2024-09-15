@@ -16,7 +16,7 @@ tag:
 {
 	"name": "双绝枪 • 创星破灭",
 	"quality": "神器",
-	"img": ["/danke/assets/img/bg_color_1.png", "/danke/assets/img/CreationStar-DFlDHyVP.png"],
+	"img": ["/assets/img/bg_color_1.png", "/assets/img/CreationStar-DFlDHyVP.png"],
 	"description": "拥有两种互相对立却又相辅相成的力量。永恒水晶赋予它稳固与守护的属性，而破坏之力则使其充斥着无尽的攻击潜能。",
 	"attr": [
 		"攻击 +15%",
@@ -48,7 +48,7 @@ tag:
 {
   "name": "追光者",
   "quality": "传奇",
-  "img": ["/danke/assets/img/bg_red_1.png", "/danke/assets/img/Eternity-DD9alSzn.png"],
+  "img": ["/assets/img/bg_red_1.png", "/assets/img/Eternity-DD9alSzn.png"],
   "description": "激发永恒水晶力量生成的光剑，无坚不摧。",
   "attr": [
     "攻击+15%",
@@ -69,7 +69,7 @@ tag:
 {
   "name": "破坏之力",
   "quality": "传奇",
-  "img": ["/danke/assets/img/bg_red_1.png", "/danke/assets/img/Destory-bcLJA8ey.png"],
+  "img": ["/assets/img/bg_red_1.png", "/assets/img/Destory-bcLJA8ey.png"],
   "description": "蕴含着极为巨大的能量，显然不是人类世界的产物。",
   "attr": [
     "攻击+15%",
@@ -90,7 +90,7 @@ tag:
 {
   "name": "混乱之剑",
   "quality": "传奇",
-  "img": ["/danke/assets/img/bg_red_1.png", "/danke/assets/img/Chaosl-DU6GBHqC.png"],
+  "img": ["/assets/img/bg_red_1.png", "/assets/img/Chaosl-DU6GBHqC.png"],
   "description": "来自宇宙另一位面的力量，极难驾败。",
   "attr": [
     "攻击 +15%",
@@ -111,7 +111,7 @@ tag:
 {
   "name": "苦无",
   "quality": "传奇",
-  "img": ["/danke/assets/img/bg_red_1.png", "/danke/assets/img/Equip_Weapon_3_Icon_Elite-7JZPxDOA.png"],
+  "img": ["/assets/img/bg_red_1.png", "/assets/img/Equip_Weapon_3_Icon_Elite-7JZPxDOA.png"],
   "description": "变异爆发前修炼忍术的器具，现在经过打磨后会是十分称手的远程兵器",
   "attr": [
     "攻击+10%",
@@ -132,7 +132,7 @@ tag:
 {
   "name": "太刀",
   "quality": "传奇",
-  "img": ["/danke/assets/img/bg_red_1.png", "/danke/assets/img/Equip_Weapon_4_Icon_Elite-SZJwnbU4.png"],
+  "img": ["/assets/img/bg_red_1.png", "/assets/img/Equip_Weapon_4_Icon_Elite-SZJwnbU4.png"],
   "description": "这东西可不止用于要帅",
   "attr": [
     "攻击+10%",
@@ -153,7 +153,7 @@ tag:
 {
   "name": "霰弹枪",
   "quality": "传奇",
-  "img": ["/danke/assets/img/bg_red_1.png", "/danke/assets/img/Equip_Weapon_5_Icon_Elite-AxDVkVd6.png"],
+  "img": ["/assets/img/bg_red_1.png", "/assets/img/Equip_Weapon_5_Icon_Elite-AxDVkVd6.png"],
   "description": "在霰弹枪面前，众生平等，就算变异者也不例外",
   "attr": [
     "攻击+10%",
@@ -174,7 +174,7 @@ tag:
 {
   "name": "左轮",
   "quality": "传奇",
-  "img": ["/danke/assets/img/bg_red_1.png", "/danke/assets/img/Equip_Weapon_2_Icon_Elite-B-5L3D9b.png"],
+  "img": ["/assets/img/bg_red_1.png", "/assets/img/Equip_Weapon_2_Icon_Elite-B-5L3D9b.png"],
   "description": "大口径的左轮手枪，为数不多的能带给你安全感的武器",
   "attr": [
     "攻击+10%",
@@ -195,7 +195,7 @@ tag:
 {
 	"name": "棒球棍",
 	"quality": "传奇",
-	"img": ["/danke/assets/img/bg_red_1.png", "/danke/assets/img/Equip_Weapon_1_Icon_Elite-DXCS9bSA.png"],
+	"img": ["/assets/img/bg_red_1.png", "/assets/img/Equip_Weapon_1_Icon_Elite-DXCS9bSA.png"],
 	"description": "大多数棒球棍的作用不是用来打球，现在更是如此",
 	"attr": [
 		"攻击 +10%",
@@ -225,8 +225,8 @@ tag:
   "name": "永恒手套",
   "quality": "传奇",
   "img": [
-    "/danke/assets/img/bg_red_1.png",
-    "/danke/assets/img/Eternity-DuzxZU52.png"
+    "/assets/img/bg_red_1.png",
+    "/assets/img/Eternity-DuzxZU52.png"
   ],
   "description": "神秘的天外装备，拥有无尽的力量。",
   "attr": [
@@ -249,8 +249,8 @@ tag:
   "name": "破坏者手甲",
   "quality": "传奇",
   "img": [
-    "/danke/assets/img/bg_red_1.png",
-    "/danke/assets/img/Destory-BcWZMB7p.png"
+    "/assets/img/bg_red_1.png",
+    "/assets/img/Destory-BcWZMB7p.png"
   ],
   "description": "来自混沌星系的科技，仅仅是看着就让人不寒而栗。",
   "attr": [
@@ -273,8 +273,8 @@ tag:
   "name": "混沌手套",
   "quality": "传奇",
   "img": [
-    "/danke/assets/img/bg_red_1.png",
-    "/danke/assets/img/Chaosl-W1Jag6Sv.png"
+    "/assets/img/bg_red_1.png",
+    "/assets/img/Chaosl-W1Jag6Sv.png"
   ],
   "description": "暗淡的光芒中仿佛隐藏着宇宙本源的力量，生存还是死亡这是一个问题。",
   "attr": [
@@ -297,8 +297,8 @@ tag:
   "name": "发光手套",
   "quality": "传奇",
   "img": [
-    "/danke/assets/img/bg_red_1.png",
-    "/danke/assets/img/Equip_Gloves_2_Icon_Elite-DlbuZpzu.png"
+    "/assets/img/bg_red_1.png",
+    "/assets/img/Equip_Gloves_2_Icon_Elite-DlbuZpzu.png"
   ],
   "description": "具有照明功能的手套，作用好像不是很大",
   "attr": [
@@ -320,8 +320,8 @@ tag:
   "name": "厚重手套",
   "quality": "传奇",
   "img": [
-    "/danke/assets/img/bg_red_1.png",
-    "/danke/assets/img/Equip_Gloves_4_Icon_Elite-f7QPgEB7.png"
+    "/assets/img/bg_red_1.png",
+    "/assets/img/Equip_Gloves_4_Icon_Elite-f7QPgEB7.png"
   ],
   "description": "双层设计的加厚皮靴，具有强大的抓地能力，即便在冰面上也绝对不会打滑",
   "attr": [
@@ -343,8 +343,8 @@ tag:
   "name": "军用手套",
   "quality": "传奇",
   "img": [
-    "/danke/assets/img/bg_red_1.png",
-    "/danke/assets/img/Equip_Gloves_1_Icon_Elite-C3ohbnqA.png"
+    "/assets/img/bg_red_1.png",
+    "/assets/img/Equip_Gloves_1_Icon_Elite-C3ohbnqA.png"
   ],
   "description": "如果不是手套上印有标志，很难区分和普通皮制手套的差别",
   "attr": [
@@ -366,8 +366,8 @@ tag:
   "name": "皮制手套",
   "quality": "传奇",
   "img": [
-    "/danke/assets/img/bg_red_1.png",
-    "/danke/assets/img/Equip_Gloves_3_Icon_Elite-Dg7WYKzw.png"
+    "/assets/img/bg_red_1.png",
+    "/assets/img/Equip_Gloves_3_Icon_Elite-Dg7WYKzw.png"
   ],
   "description": "皮革制做的手套，非常柔软而且保暖",
   "attr": [
@@ -389,8 +389,8 @@ tag:
   "name": "时尚手套",
   "quality": "传奇",
   "img": [
-    "/danke/assets/img/bg_red_1.png",
-    "/danke/assets/img/Equip_Gloves_5_Icon_Elite-Br0GsEBo.png"
+    "/assets/img/bg_red_1.png",
+    "/assets/img/Equip_Gloves_5_Icon_Elite-Br0GsEBo.png"
   ],
   "description": "装饰效果大于实际用途的手套，仅仅能对手背起到一些防护作用",
   "attr": [
@@ -418,8 +418,8 @@ tag:
   "name": "神罚项链 • 创星破灭",
   "quality": "神器",
   "img": [
-    "/danke/assets/img/bg_color_1.png",
-    "/danke/assets/img/Equip_Belt_9_Icon_Artifact-ClfLLn0c.png"
+    "/assets/img/bg_color_1.png",
+    "/assets/img/Equip_Belt_9_Icon_Artifact-ClfLLn0c.png"
   ],
   "description": "拥有两种互相对立却又相辅相成的力量。是守护与毁灭的完美结合，蕴含着远古的神力，唯有那些真正了解其奥秘的人，才能揭开其神秘的面纱。",
   "attr": [
@@ -453,8 +453,8 @@ tag:
   "name": "永恒项链",
   "quality": "传奇",
   "img": [
-    "/danke/assets/img/bg_red_1.png",
-    "/danke/assets/img/Eternity-B6XmubBp.png"
+    "/assets/img/bg_red_1.png",
+    "/assets/img/Eternity-B6XmubBp.png"
   ],
   "description": "神秘的天外装备，邀发内心的勇气，遇强则强。",
   "attr": [
@@ -477,8 +477,8 @@ tag:
   "name": "破坏者徽记",
   "quality": "传奇",
   "img": [
-    "/danke/assets/img/bg_red_1.png",
-    "/danke/assets/img/Destory-DLpdXYrL.png"
+    "/assets/img/bg_red_1.png",
+    "/assets/img/Destory-DLpdXYrL.png"
   ],
   "description": "来自混沌星系的科技，散发着恐怖的气息。",
   "attr": [
@@ -501,8 +501,8 @@ tag:
   "name": "分裂之石",
   "quality": "传奇",
   "img": [
-    "/danke/assets/img/bg_red_1.png",
-    "/danke/assets/img/Chaosl-D7p8g_B5.png"
+    "/assets/img/bg_red_1.png",
+    "/assets/img/Chaosl-D7p8g_B5.png"
   ],
   "description": "看似稳定的形状却不时倒映出破碎的痕迹，让你怀疑是不是眼花了。",
   "attr": [
@@ -525,8 +525,8 @@ tag:
   "name": "军用项链",
   "quality": "传奇",
   "img": [
-    "/danke/assets/img/bg_red_1.png",
-    "/danke/assets/img/Equip_Necklace_1_Icon_Elite-D43jEMaA.png"
+    "/assets/img/bg_red_1.png",
+    "/assets/img/Equip_Necklace_1_Icon_Elite-D43jEMaA.png"
   ],
   "description": "军队中用来标识身份的铭牌，你永远不想单独见到它",
   "attr": [
@@ -548,8 +548,8 @@ tag:
   "name": "能量项链",
   "quality": "传奇",
   "img": [
-    "/danke/assets/img/bg_red_1.png",
-    "/danke/assets/img/Equip_Necklace_2_Icon_Elite-bLFy3y-j.png"
+    "/assets/img/bg_red_1.png",
+    "/assets/img/Equip_Necklace_2_Icon_Elite-bLFy3y-j.png"
   ],
   "description": "全包裹的设计能够对颈部起到很好的防护效果，但是穿戴起来应该不太方便",
   "attr": [
@@ -571,8 +571,8 @@ tag:
   "name": "犬牙项链",
   "quality": "传奇",
   "img": [
-    "/danke/assets/img/bg_red_1.png",
-    "/danke/assets/img/Equip_Necklace_3_Icon_Elite-By7h1FWn.png"
+    "/assets/img/bg_red_1.png",
+    "/assets/img/Equip_Necklace_3_Icon_Elite-By7h1FWn.png"
   ],
   "description": "兽骨制作的吊坠，通常是为了带来好运",
   "attr": [
@@ -594,8 +594,8 @@ tag:
   "name": "时尚项链",
   "quality": "传奇",
   "img": [
-    "/danke/assets/img/bg_red_1.png",
-    "/danke/assets/img/Equip_Necklace_5_Icon_Elite-YcpaPxZx.png"
+    "/assets/img/bg_red_1.png",
+    "/assets/img/Equip_Necklace_5_Icon_Elite-YcpaPxZx.png"
   ],
   "description": "非常新潮的设计，估计是某位摇滚歌手的饰品",
   "attr": [
@@ -617,8 +617,8 @@ tag:
   "name": "原石项链",
   "quality": "传奇",
   "img": [
-    "/danke/assets/img/bg_red_1.png",
-    "/danke/assets/img/Equip_Necklace_4_Icon_Elite-BDw7KoSU.png"
+    "/assets/img/bg_red_1.png",
+    "/assets/img/Equip_Necklace_4_Icon_Elite-BDw7KoSU.png"
   ],
   "description": "挂着的石头上散发着淡淡绿光，如果作为装饰在夜晚会相当显眼",
   "attr": [
@@ -646,8 +646,8 @@ tag:
   "name": "天启战衣 • 创星破灭",
   "quality": "神器",
   "img": [
-    "/danke/assets/img/bg_color_1.png",
-    "/danke/assets/img/CreationStar-BJZtFrn0.png"
+    "/assets/img/bg_color_1.png",
+    "/assets/img/CreationStar-BJZtFrn0.png"
   ],
   "description": "拥有两种互相对立却又相辅相成的力量。永恒之守护使战士如战场上的要塞般屹立不倒，而蕴含其中的破坏属性，则可转守为攻，于绝对守护中催生出极致的鬼神之力。",
   "attr": [
@@ -681,8 +681,8 @@ tag:
   "name": "永恒战衣",
   "quality": "传奇",
   "img": [
-    "/danke/assets/img/bg_red_1.png",
-    "/danke/assets/img/Eternity-CCrxCc7e.png"
+    "/assets/img/bg_red_1.png",
+    "/assets/img/Eternity-CCrxCc7e.png"
   ],
   "description": "神秘的天外装备，永恒之力，战意不灭。",
   "attr": [
@@ -705,8 +705,8 @@ tag:
   "name": "破坏者风衣",
   "quality": "传奇",
   "img": [
-    "/danke/assets/img/bg_red_1.png",
-    "/danke/assets/img/Destory-DBf_7Xmr.png"
+    "/assets/img/bg_red_1.png",
+    "/assets/img/Destory-DBf_7Xmr.png"
   ],
   "description": "来自混沌星系的科技，蕴含强大的力量。",
   "attr": [
@@ -729,8 +729,8 @@ tag:
   "name": "亡者之甲",
   "quality": "传奇",
   "img": [
-    "/danke/assets/img/bg_red_1.png",
-    "/danke/assets/img/Chaosl-BmNbCtdf.png"
+    "/assets/img/bg_red_1.png",
+    "/assets/img/Chaosl-BmNbCtdf.png"
   ],
   "description": "同时可以感受到强烈的生命力和肃穆的死亡气息，令人恐惧又好奇。",
   "attr": [
@@ -753,8 +753,8 @@ tag:
   "name": "虫壳外衣",
   "quality": "传奇",
   "img": [
-    "/danke/assets/img/bg_red_1.png",
-    "/danke/assets/img/Equip_Armor_3_Icon_Elite-B0KAIVjI.png"
+    "/assets/img/bg_red_1.png",
+    "/assets/img/Equip_Armor_3_Icon_Elite-B0KAIVjI.png"
   ],
   "description": "破碎的虫皮缝制的护甲，虽然不太好看，但是防护效果不错",
   "attr": [
@@ -776,8 +776,8 @@ tag:
   "name": "厚重防护服",
   "quality": "传奇",
   "img": [
-    "/danke/assets/img/bg_red_1.png",
-    "/danke/assets/img/Equip_Armor_4_Icon_Elite-CRGijol7.png"
+    "/assets/img/bg_red_1.png",
+    "/assets/img/Equip_Armor_4_Icon_Elite-CRGijol7.png"
   ],
   "description": "为了提高防护效果而做了加厚处理，穿上它估计跑不了太快。",
   "attr": [
@@ -799,8 +799,8 @@ tag:
   "name": "金属作战服",
   "quality": "传奇",
   "img": [
-    "/danke/assets/img/bg_red_1.png",
-    "/danke/assets/img/Equip_Armor_2_Icon_Elite-BIbHq7J7.png"
+    "/assets/img/bg_red_1.png",
+    "/assets/img/Equip_Armor_2_Icon_Elite-BIbHq7J7.png"
   ],
   "description": "金属制的护甲，拥有出众的防御能力。",
   "attr": [
@@ -822,8 +822,8 @@ tag:
   "name": "军用战斗服",
   "quality": "传奇",
   "img": [
-    "/danke/assets/img/bg_red_1.png",
-    "/danke/assets/img/Equip_Armor_1_Icon_Elite-BsjKOXC4.png"
+    "/assets/img/bg_red_1.png",
+    "/assets/img/Equip_Armor_1_Icon_Elite-BsjKOXC4.png"
   ],
   "description": "变异爆发前军队的统一着装，规整而且轻便。",
   "attr": [
@@ -845,8 +845,8 @@ tag:
   "name": "时尚夹克",
   "quality": "传奇",
   "img": [
-    "/danke/assets/img/bg_red_1.png",
-    "/danke/assets/img/Equip_Armor_5_Icon_Elite-Ciro0x8S.png"
+    "/assets/img/bg_red_1.png",
+    "/assets/img/Equip_Armor_5_Icon_Elite-Ciro0x8S.png"
   ],
   "description": "牛仔们的最爱，如果不是变异爆发，这个款式会相当流行。",
   "attr": [
@@ -873,8 +873,8 @@ tag:
   "name": "星辰束腰 • 创星破灭",
   "quality": "神器",
   "img": [
-    "/danke/assets/img/bg_color_1.png",
-    "/danke/assets/img/Equip_Necklace_9_Icon_Artifact-DuDmfKKi.png"
+    "/assets/img/bg_color_1.png",
+    "/assets/img/Equip_Necklace_9_Icon_Artifact-DuDmfKKi.png"
   ],
   "description": null,
   "attr": [
@@ -908,8 +908,8 @@ tag:
   "name": "永恒腰带",
   "quality": "传奇",
   "img": [
-    "/danke/assets/img/bg_red_1.png",
-    "/danke/assets/img/Eternity-DlOnMguP.png"
+    "/assets/img/bg_red_1.png",
+    "/assets/img/Eternity-DlOnMguP.png"
   ],
   "description": "神秘的天外装备，躲避敌人的攻击。",
   "attr": [
@@ -932,8 +932,8 @@ tag:
   "name": "破坏者束腰",
   "quality": "传奇",
   "img": [
-    "/danke/assets/img/bg_red_1.png",
-    "/danke/assets/img/Destory-BV6m6EYF.png"
+    "/assets/img/bg_red_1.png",
+    "/assets/img/Destory-BV6m6EYF.png"
   ],
   "description": "来自混沌星系的科技，仿佛具有生命一般。",
   "attr": [
@@ -956,8 +956,8 @@ tag:
   "name": "扭曲腰带",
   "quality": "传奇",
   "img": [
-    "/danke/assets/img/bg_red_1.png",
-    "/danke/assets/img/Chaosl-3fPHx_2G.png"
+    "/assets/img/bg_red_1.png",
+    "/assets/img/Chaosl-3fPHx_2G.png"
   ],
   "description": "极不规律的光泽闪动显示其蕴含着某种神秘的力量，应该没人想戴在腰间吧。",
   "attr": [
@@ -980,8 +980,8 @@ tag:
   "name": "厚重腰带",
   "quality": "传奇",
   "img": [
-    "/danke/assets/img/bg_red_1.png",
-    "/danke/assets/img/Equip_Belt_4_Icon_Elite-CCsW3Am8.png"
+    "/assets/img/bg_red_1.png",
+    "/assets/img/Equip_Belt_4_Icon_Elite-CCsW3Am8.png"
   ],
   "description": "非常宽厚的腰带，一看就是出自实用主义者的手笔",
   "attr": [
@@ -1003,8 +1003,8 @@ tag:
   "name": "军用腰带",
   "quality": "传奇",
   "img": [
-    "/danke/assets/img/bg_red_1.png",
-    "/danke/assets/img/Equip_Belt_1_Icon_Elite-Dyy4tdSE.png"
+    "/assets/img/bg_red_1.png",
+    "/assets/img/Equip_Belt_1_Icon_Elite-Dyy4tdSE.png"
   ],
   "description": "常见的军用腰带，设计非常简约",
   "attr": [
@@ -1026,8 +1026,8 @@ tag:
   "name": "能量腰带",
   "quality": "传奇",
   "img": [
-    "/danke/assets/img/bg_red_1.png",
-    "/danke/assets/img/Equip_Belt_2_Icon_Elite-D4FINcAY.png"
+    "/assets/img/bg_red_1.png",
+    "/assets/img/Equip_Belt_2_Icon_Elite-D4FINcAY.png"
   ],
   "description": "显示器上闪动着一些数字，不知道是代表着什么",
   "attr": [
@@ -1049,8 +1049,8 @@ tag:
   "name": "时尚腰带",
   "quality": "传奇",
   "img": [
-    "/danke/assets/img/bg_red_1.png",
-    "/danke/assets/img/Equip_Belt_5_Icon_Elite-BFiTg5UU.png"
+    "/assets/img/bg_red_1.png",
+    "/assets/img/Equip_Belt_5_Icon_Elite-BFiTg5UU.png"
   ],
   "description": "不知道出自哪位大牌设计师之手，显得非常浮夸",
   "attr": [
@@ -1072,8 +1072,8 @@ tag:
   "name": "野兽腰带",
   "quality": "传奇",
   "img": [
-    "/danke/assets/img/bg_red_1.png",
-    "/danke/assets/img/Equip_Belt_3_Icon_Elite-CibJaE_C.png"
+    "/assets/img/bg_red_1.png",
+    "/assets/img/Equip_Belt_3_Icon_Elite-CibJaE_C.png"
   ],
   "description": "兽皮制造的腰带，在变异爆发前是非常常见的物品",
   "attr": [
@@ -1100,8 +1100,8 @@ tag:
   "name": "永恒战靴",
   "quality": "传奇",
   "img": [
-    "/danke/assets/img/bg_red_1.png",
-    "/danke/assets/img/Eternity-DFpitOaI.png"
+    "/assets/img/bg_red_1.png",
+    "/assets/img/Eternity-DFpitOaI.png"
   ],
   "description": "神秘的天外装备，摧毁一切敢于接近之敌。",
   "attr": [
@@ -1124,8 +1124,8 @@ tag:
   "name": "破坏者足具",
   "quality": "传奇",
   "img": [
-    "/danke/assets/img/bg_red_1.png",
-    "/danke/assets/img/Destory-Ynjj-yxb.png"
+    "/assets/img/bg_red_1.png",
+    "/assets/img/Destory-Ynjj-yxb.png"
   ],
   "description": "来自混沌星系的科技，看似沉重实际却异常轻便",
   "attr": [
@@ -1148,8 +1148,8 @@ tag:
   "name": "迷惘之靴",
   "quality": "传奇",
   "img": [
-    "/danke/assets/img/bg_red_1.png",
-    "/danke/assets/img/Chaosl-Gn1s7UWZ.png"
+    "/assets/img/bg_red_1.png",
+    "/assets/img/Chaosl-Gn1s7UWZ.png"
   ],
   "description": "外表平凡的鞋子，但是穿上后会让人晕头转向。",
   "attr": [
@@ -1172,8 +1172,8 @@ tag:
   "name": "厚重战靴",
   "quality": "传奇",
   "img": [
-    "/danke/assets/img/bg_red_1.png",
-    "/danke/assets/img/Equip_Shoe_4_Icon_Elite-3XJGLP0g.png"
+    "/assets/img/bg_red_1.png",
+    "/assets/img/Equip_Shoe_4_Icon_Elite-3XJGLP0g.png"
   ],
   "description": "双层设计的加厚皮靴，具有强大的抓地能力，即便在冰面上也绝对不会打滑",
   "attr": [
@@ -1195,8 +1195,8 @@ tag:
   "name": "军用皮靴",
   "quality": "传奇",
   "img": [
-    "/danke/assets/img/bg_red_1.png",
-    "/danke/assets/img/Equip_Shoe_1_Icon_Elite-C8T2Mkab.png"
+    "/assets/img/bg_red_1.png",
+    "/assets/img/Equip_Shoe_1_Icon_Elite-C8T2Mkab.png"
   ],
   "description": "军队的制式皮靴，坚固耐用，就是不太透气",
   "attr": [
@@ -1218,8 +1218,8 @@ tag:
   "name": "能量跑鞋",
   "quality": "传奇",
   "img": [
-    "/danke/assets/img/bg_red_1.png",
-    "/danke/assets/img/Equip_Shoe_2_Icon_Elite-CN_ZP9zB.png"
+    "/assets/img/bg_red_1.png",
+    "/assets/img/Equip_Shoe_2_Icon_Elite-CN_ZP9zB.png"
   ],
   "description": "轻便的跑鞋，据说制造材料非常高科技，能有效提高运动效率",
   "attr": [
@@ -1241,8 +1241,8 @@ tag:
   "name": "时尚皮靴",
   "quality": "传奇",
   "img": [
-    "/danke/assets/img/bg_red_1.png",
-    "/danke/assets/img/Equip_Shoe_5_Icon_Elite-BVJd36nZ.png"
+    "/assets/img/bg_red_1.png",
+    "/assets/img/Equip_Shoe_5_Icon_Elite-BVJd36nZ.png"
   ],
   "description": "暴走族的常见装备，穿上它会让你有种把油门踩到底的冲动",
   "attr": [
@@ -1264,8 +1264,8 @@ tag:
   "name": "兽爪战靴",
   "quality": "传奇",
   "img": [
-    "/danke/assets/img/bg_red_1.png",
-    "/danke/assets/img/Equip_Shoe_3_Icon_Elite-D7KTJla4.png"
+    "/assets/img/bg_red_1.png",
+    "/assets/img/Equip_Shoe_3_Icon_Elite-D7KTJla4.png"
   ],
   "description": "野兽的利爪制作的战靴，具有不错的防护能力",
   "attr": [
